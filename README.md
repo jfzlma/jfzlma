@@ -1,6 +1,6 @@
 # Hi, I'm Jafsal 👋
 
-### Senior Data Engineer · Python Developer · Technical Lead
+### Senior Data Engineer · Web Scraping Specialist · Python Developer · Technical Lead
 
 I build **scalable data ingestion, ETL, web scraping, and DataOps systems** using Python and distributed infrastructure.
 
